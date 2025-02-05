@@ -5,6 +5,7 @@ This project provides an introduction to basic image processing using OpenCV and
 
 ## Prerequisites
 To run the code successfully, ensure you have the following installed:
+
 -Python 3.x
 - OpenCV (cv2)
 - NumPy (numpy)
