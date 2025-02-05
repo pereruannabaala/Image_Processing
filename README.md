@@ -9,3 +9,7 @@ To run the code successfully, ensure you have the following installed:
 - OpenCV (cv2)
 - NumPy (numpy)
 - Matplotlib (matplotlib
+
+## Features
+1 *Download and Extract Assets*
+The script downloads image assets required for processing and extracts them for use.
