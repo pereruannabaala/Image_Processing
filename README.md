@@ -11,5 +11,18 @@ To run the code successfully, ensure you have the following installed:
 - Matplotlib (matplotlib
 
 ## Features
-1 *Download and Extract Assets*
+1 **Download and Extract Assets**
 The script downloads image assets required for processing and extracts them for use.
+
+2 **Displaying Images**
+- Uses OpenCV (cv2.imread) to read images.
+- Displays images using both IPython.display.Image and matplotlib.pyplot.imshow.
+  
+3 **Working with Grayscale Images**
+- Reads grayscale images.
+- Prints image data as 2D NumPy arrays.
+- Displays images with a grayscale colormap.
+
+
+
+
