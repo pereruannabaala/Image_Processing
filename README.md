@@ -12,7 +12,7 @@ To run the code successfully, ensure you have the following installed:
 
 ## Features
 1 **Download and Extract Assets**
-The script downloads image assets required for processing and extracts them for use.
+- The script downloads image assets required for processing and extracts them for use.
 
 2 **Displaying Images**
 - Uses OpenCV (cv2.imread) to read images.
