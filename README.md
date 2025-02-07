@@ -40,3 +40,13 @@ To run the code successfully, ensure you have the following installed:
 - Converts images from BGR to RGB for proper visualization.
 - Converts images to HSV color space.
 - Displays Hue, Saturation, and Value (HSV) components separately.
+
+7 **Modifying Image Channels**
+
+- Adjusts the Hue channel to shift colors.
+- Merges modified channels and converts back to RGB.
+
+8 **Saving Images**
+
+- Saves processed images using cv2.imwrite.
+- Reads and displays saved images to verify successful storage.
