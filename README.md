@@ -35,3 +35,8 @@ To run the code successfully, ensure you have the following installed:
 - Displays each color channel separately.
 - Merges channels back into a complete image.
 
+6 **Converting Between Color Spaces**
+
+- Converts images from BGR to RGB for proper visualization.
+- Converts images to HSV color space.
+- Displays Hue, Saturation, and Value (HSV) components separately.
