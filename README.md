@@ -29,5 +29,9 @@ To run the code successfully, ensure you have the following installed:
 - Demonstrates the difference between BGR (OpenCV default) and RGB (Matplotlib expected format).
 - Corrects color display by reversing color channels.
 
+5 **Splitting and Merging Color Channels**
 
+- Splits an image into its Blue, Green, and Red channels.
+- Displays each color channel separately.
+- Merges channels back into a complete image.
 
