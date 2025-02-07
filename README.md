@@ -23,6 +23,11 @@ To run the code successfully, ensure you have the following installed:
 - Prints image data as 2D NumPy arrays.
 - Displays images with a grayscale colormap.
 
+4. **Working with Color Images**
+
+- Reads and displays color images.
+- Demonstrates the difference between BGR (OpenCV default) and RGB (Matplotlib expected format).
+- Corrects color display by reversing color channels.
 
 
 
